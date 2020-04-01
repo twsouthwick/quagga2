@@ -21,7 +21,7 @@
     "@types/mocha": "5.2.7",
     "@types/react": "^16.9.19",
     "@types/sinon": "^7.5.1",
-    "@types/sinon-chai": "^3.2.3",
+    "@types/sinon-chai": "^3.2.4",
     "async": "1.5.2",
     "babel-loader": "^8.0.6",
     "babel-plugin-add-module-exports": "^1.0.2",
